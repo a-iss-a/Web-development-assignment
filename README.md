@@ -39,7 +39,6 @@ Start the backend ASP.NET Core Web API first, then start the React frontend usin
 The frontend communicates with the backend through:
 http://localhost:5008/api/data
 
-
 The backend uses SQL Server to store and manage the tasks.
 
 # Pushing the project to git repositroy:

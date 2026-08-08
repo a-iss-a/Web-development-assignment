@@ -2,7 +2,7 @@
 
 Task Tracker is a web application built with React and TypeScript that allows users to create, view, edit, delete, and filter tasks. The application uses an ASP.NET Core Web API as its backend and SQL Server for data persistence.
 
-The assignment originally required using localStorage, but I decided to use a backend instead, as this approach was allowed by the instructor. This allowed us to integrate the React frontend with our existing Web API and SQL Server database.
+The assignment originally required using localStorage, but I decided to use a backend instead, as this approach was allowed by the instructor. This allowed us to integrate the React frontend with the existing Web API and SQL Server database.
 
 
 # Features:

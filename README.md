@@ -53,7 +53,7 @@ The backend uses SQL Server to store and manage the tasks.
 - Entity Framework Core
 - SQL Server
 
-# Pushing the project to our git repositroy:
+# Pushing the project to git repositroy:
 - git init
 - git add . 
 - git commit -m "Add assignment to repository"

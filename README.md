@@ -22,7 +22,6 @@ The assignment originally required using localStorage, but I decided to use a ba
 - TaskList.tsx
 - TaskForm.tsx
 - EditTask.tsx
-- main.tsx
 
 # Installation:
 - npm create vite@latest task-tracker

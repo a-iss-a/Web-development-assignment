@@ -42,16 +42,6 @@ http://localhost:5008/api/data
 
 The backend uses SQL Server to store and manage the tasks.
 
-# Technologies Used:
-- React
-- TypeScript
-- Vite
-- React Router
-- React Bootstrap
-- ASP.NET Core Web API
-- Entity Framework Core
-- SQL Server
-
 # Pushing the project to git repositroy:
 - git init
 - git add . 
